@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-redirect-from
+title:            "rosario"
+url:              https://rosarioscalise.com
+permalink:        pretty
+timezone:         America/Los_Angeles
+sass:
+  sass_dir: assets
+  style: :compressed
